@@ -1,0 +1,721 @@
+State,Season,_YearMonth,AgeCategory_Legend,Sex_Label,Race_Label,MonthlyRate,Type
+Utah,2021-22,202205.0,All,All,All,17.2,Crude Rate
+Utah,2021-22,202203.0,All,All,All,12.1,Crude Rate
+Utah,2021-22,202202.0,All,All,All,40.4,Crude Rate
+Utah,2021-22,202204.0,All,All,All,7.1,Crude Rate
+Utah,2021-22,202201.0,All,All,All,104.2,Crude Rate
+Utah,2021-22,202111.0,All,All,All,37.8,Crude Rate
+Utah,2021-22,202207.0,All,All,All,34.5,Crude Rate
+Utah,2021-22,202209.0,All,All,All,16.7,Crude Rate
+Utah,2021-22,202110.0,All,All,All,39.8,Crude Rate
+Utah,2021-22,202112.0,All,All,All,38.9,Crude Rate
+Utah,2021-22,202206.0,All,All,All,36.0,Crude Rate
+Utah,2021-22,202208.0,All,All,All,24.4,Crude Rate
+Tennessee,2021-22,202205.0,All,All,All,15.9,Crude Rate
+Tennessee,2021-22,202207.0,All,All,All,46.4,Crude Rate
+Tennessee,2021-22,202208.0,All,All,All,41.9,Crude Rate
+Tennessee,2021-22,202202.0,All,All,All,48.9,Crude Rate
+Tennessee,2021-22,202112.0,All,All,All,54.7,Crude Rate
+Tennessee,2021-22,202209.0,All,All,All,25.2,Crude Rate
+Tennessee,2021-22,202110.0,All,All,All,31.1,Crude Rate
+Tennessee,2021-22,202203.0,All,All,All,9.2,Crude Rate
+Tennessee,2021-22,202204.0,All,All,All,5.1,Crude Rate
+Tennessee,2021-22,202111.0,All,All,All,25.2,Crude Rate
+Tennessee,2021-22,202201.0,All,All,All,133.0,Crude Rate
+Tennessee,2021-22,202206.0,All,All,All,29.2,Crude Rate
+Oregon,2021-22,202111.0,All,All,All,22.6,Crude Rate
+Oregon,2021-22,202205.0,All,All,All,32.3,Crude Rate
+Oregon,2021-22,202203.0,All,All,All,15.7,Crude Rate
+Oregon,2021-22,202110.0,All,All,All,25.6,Crude Rate
+Oregon,2021-22,202201.0,All,All,All,74.1,Crude Rate
+Oregon,2021-22,202112.0,All,All,All,26.6,Crude Rate
+Oregon,2021-22,202202.0,All,All,All,40.4,Crude Rate
+Oregon,2021-22,202206.0,All,All,All,38.4,Crude Rate
+Oregon,2021-22,202207.0,All,All,All,42.1,Crude Rate
+Oregon,2021-22,202204.0,All,All,All,14.8,Crude Rate
+Oregon,2021-22,202208.0,All,All,All,35.2,Crude Rate
+Oregon,2021-22,202209.0,All,All,All,25.3,Crude Rate
+Ohio,2021-22,202111.0,All,All,All,27.4,Crude Rate
+Ohio,2021-22,202202.0,All,All,All,21.7,Crude Rate
+Ohio,2021-22,202204.0,All,All,All,14.5,Crude Rate
+Ohio,2021-22,202205.0,All,All,All,22.4,Crude Rate
+Ohio,2021-22,202203.0,All,All,All,10.2,Crude Rate
+Ohio,2021-22,202209.0,All,All,All,34.0,Crude Rate
+Ohio,2021-22,202206.0,All,All,All,27.6,Crude Rate
+Ohio,2021-22,202201.0,All,All,All,65.2,Crude Rate
+Ohio,2021-22,202112.0,All,All,All,48.5,Crude Rate
+Ohio,2021-22,202208.0,All,All,All,44.8,Crude Rate
+Ohio,2021-22,202207.0,All,All,All,34.0,Crude Rate
+Ohio,2021-22,202110.0,All,All,All,22.2,Crude Rate
+New York,2021-22,202201.0,All,All,All,141.1,Crude Rate
+New York,2021-22,202205.0,All,All,All,74.7,Crude Rate
+New York,2021-22,202111.0,All,All,All,80.7,Crude Rate
+New York,2021-22,202110.0,All,All,All,50.5,Crude Rate
+New York,2021-22,202206.0,All,All,All,37.1,Crude Rate
+New York,2021-22,202209.0,All,All,All,51.7,Crude Rate
+New York,2021-22,202112.0,All,All,All,107.6,Crude Rate
+New York,2021-22,202202.0,All,All,All,44.9,Crude Rate
+New York,2021-22,202208.0,All,All,All,45.8,Crude Rate
+New York,2021-22,202207.0,All,All,All,40.8,Crude Rate
+New York,2021-22,202203.0,All,All,All,21.7,Crude Rate
+New York,2021-22,202204.0,All,All,All,55.3,Crude Rate
+New Mexico,2021-22,202203.0,All,All,All,20.5,Crude Rate
+New Mexico,2021-22,202205.0,All,All,All,22.8,Crude Rate
+New Mexico,2021-22,202110.0,All,All,All,60.8,Crude Rate
+New Mexico,2021-22,202209.0,All,All,All,24.1,Crude Rate
+New Mexico,2021-22,202202.0,All,All,All,56.7,Crude Rate
+New Mexico,2021-22,202208.0,All,All,All,39.2,Crude Rate
+New Mexico,2021-22,202111.0,All,All,All,103.2,Crude Rate
+New Mexico,2021-22,202206.0,All,All,All,52.4,Crude Rate
+New Mexico,2021-22,202112.0,All,All,All,92.4,Crude Rate
+New Mexico,2021-22,202207.0,All,All,All,51.1,Crude Rate
+New Mexico,2021-22,202204.0,All,All,All,10.5,Crude Rate
+New Mexico,2021-22,202201.0,All,All,All,117.4,Crude Rate
+Minnesota,2021-22,202206.0,All,All,All,37.4,Crude Rate
+Minnesota,2021-22,202205.0,All,All,All,38.8,Crude Rate
+Minnesota,2021-22,202110.0,All,All,All,39.5,Crude Rate
+Minnesota,2021-22,202201.0,All,All,All,105.4,Crude Rate
+Minnesota,2021-22,202111.0,All,All,All,73.8,Crude Rate
+Minnesota,2021-22,202207.0,All,All,All,43.7,Crude Rate
+Minnesota,2021-22,202202.0,All,All,All,35.3,Crude Rate
+Minnesota,2021-22,202203.0,All,All,All,15.7,Crude Rate
+Minnesota,2021-22,202112.0,All,All,All,81.3,Crude Rate
+Minnesota,2021-22,202209.0,All,All,All,40.6,Crude Rate
+Minnesota,2021-22,202208.0,All,All,All,46.2,Crude Rate
+Minnesota,2021-22,202204.0,All,All,All,18.4,Crude Rate
+Michigan,2021-22,202206.0,All,All,All,28.5,Crude Rate
+Michigan,2021-22,202202.0,All,All,All,42.9,Crude Rate
+Michigan,2021-22,202112.0,All,All,All,101.8,Crude Rate
+Michigan,2021-22,202207.0,All,All,All,33.1,Crude Rate
+Michigan,2021-22,202110.0,All,All,All,52.6,Crude Rate
+Michigan,2021-22,202201.0,All,All,All,120.9,Crude Rate
+Michigan,2021-22,202205.0,All,All,All,33.0,Crude Rate
+Michigan,2021-22,202203.0,All,All,All,14.6,Crude Rate
+Michigan,2021-22,202209.0,All,All,All,46.2,Crude Rate
+Michigan,2021-22,202111.0,All,All,All,90.0,Crude Rate
+Michigan,2021-22,202208.0,All,All,All,48.6,Crude Rate
+Michigan,2021-22,202204.0,All,All,All,16.0,Crude Rate
+Maryland,2021-22,202110.0,All,All,All,30.7,Crude Rate
+Maryland,2021-22,202204.0,All,All,All,10.5,Crude Rate
+Maryland,2021-22,202112.0,All,All,All,96.2,Crude Rate
+Maryland,2021-22,202208.0,All,All,All,37.6,Crude Rate
+Maryland,2021-22,202201.0,All,All,All,140.7,Crude Rate
+Maryland,2021-22,202206.0,All,All,All,28.2,Crude Rate
+Maryland,2021-22,202202.0,All,All,All,24.3,Crude Rate
+Maryland,2021-22,202209.0,All,All,All,27.7,Crude Rate
+Maryland,2021-22,202205.0,All,All,All,29.7,Crude Rate
+Maryland,2021-22,202207.0,All,All,All,36.5,Crude Rate
+Maryland,2021-22,202111.0,All,All,All,30.3,Crude Rate
+Maryland,2021-22,202203.0,All,All,All,8.5,Crude Rate
+Iowa,2021-22,202111.0,All,All,All,58.3,Crude Rate
+Iowa,2021-22,202209.0,All,All,All,,Crude Rate
+Iowa,2021-22,202208.0,All,All,All,,Crude Rate
+Iowa,2021-22,202206.0,All,All,All,,Crude Rate
+Iowa,2021-22,202207.0,All,All,All,,Crude Rate
+Iowa,2021-22,202112.0,All,All,All,96.6,Crude Rate
+Iowa,2021-22,202110.0,All,All,All,57.5,Crude Rate
+Iowa,2021-22,202203.0,All,All,All,22.2,Crude Rate
+Iowa,2021-22,202202.0,All,All,All,49.1,Crude Rate
+Iowa,2021-22,202205.0,All,All,All,19.9,Crude Rate
+Iowa,2021-22,202204.0,All,All,All,17.6,Crude Rate
+Iowa,2021-22,202201.0,All,All,All,162.6,Crude Rate
+Georgia,2021-22,202201.0,All,All,All,170.2,Crude Rate
+Georgia,2021-22,202111.0,All,All,All,18.9,Crude Rate
+Georgia,2021-22,202208.0,All,All,All,57.1,Crude Rate
+Georgia,2021-22,202110.0,All,All,All,31.0,Crude Rate
+Georgia,2021-22,202112.0,All,All,All,86.1,Crude Rate
+Georgia,2021-22,202207.0,All,All,All,57.9,Crude Rate
+Georgia,2021-22,202204.0,All,All,All,9.2,Crude Rate
+Georgia,2021-22,202205.0,All,All,All,22.5,Crude Rate
+Georgia,2021-22,202209.0,All,All,All,28.1,Crude Rate
+Georgia,2021-22,202206.0,All,All,All,38.1,Crude Rate
+Georgia,2021-22,202202.0,All,All,All,43.0,Crude Rate
+Georgia,2021-22,202203.0,All,All,All,14.0,Crude Rate
+Connecticut,2021-22,202206.0,All,All,All,47.2,Crude Rate
+Connecticut,2021-22,202207.0,All,All,All,69.1,Crude Rate
+Connecticut,2021-22,202110.0,All,All,All,25.2,Crude Rate
+Connecticut,2021-22,202112.0,All,All,All,127.8,Crude Rate
+Connecticut,2021-22,202204.0,All,All,All,28.3,Crude Rate
+Connecticut,2021-22,202201.0,All,All,All,212.4,Crude Rate
+Connecticut,2021-22,202205.0,All,All,All,56.7,Crude Rate
+Connecticut,2021-22,202209.0,All,All,All,73.7,Crude Rate
+Connecticut,2021-22,202203.0,All,All,All,18.8,Crude Rate
+Connecticut,2021-22,202202.0,All,All,All,44.2,Crude Rate
+Connecticut,2021-22,202208.0,All,All,All,70.7,Crude Rate
+Connecticut,2021-22,202111.0,All,All,All,38.3,Crude Rate
+Colorado,2021-22,202112.0,All,All,All,70.6,Crude Rate
+Colorado,2021-22,202204.0,All,All,All,8.7,Crude Rate
+Colorado,2021-22,202202.0,All,All,All,25.2,Crude Rate
+Colorado,2021-22,202110.0,All,All,All,53.4,Crude Rate
+Colorado,2021-22,202205.0,All,All,All,20.6,Crude Rate
+Colorado,2021-22,202207.0,All,All,All,29.5,Crude Rate
+Colorado,2021-22,202208.0,All,All,All,21.3,Crude Rate
+Colorado,2021-22,202206.0,All,All,All,32.6,Crude Rate
+Colorado,2021-22,202203.0,All,All,All,7.4,Crude Rate
+Colorado,2021-22,202201.0,All,All,All,119.6,Crude Rate
+Colorado,2021-22,202209.0,All,All,All,15.0,Crude Rate
+Colorado,2021-22,202111.0,All,All,All,78.3,Crude Rate
+California,2021-22,202205.0,All,All,All,32.7,Crude Rate
+California,2021-22,202208.0,All,All,All,37.7,Crude Rate
+California,2021-22,202111.0,All,All,All,8.9,Crude Rate
+California,2021-22,202201.0,All,All,All,114.5,Crude Rate
+California,2021-22,202204.0,All,All,All,12.5,Crude Rate
+California,2021-22,202202.0,All,All,All,40.5,Crude Rate
+California,2021-22,202207.0,All,All,All,53.8,Crude Rate
+California,2021-22,202112.0,All,All,All,23.6,Crude Rate
+California,2021-22,202110.0,All,All,All,13.3,Crude Rate
+California,2021-22,202209.0,All,All,All,23.3,Crude Rate
+California,2021-22,202203.0,All,All,All,11.8,Crude Rate
+California,2021-22,202206.0,All,All,All,45.0,Crude Rate
+Utah,2020-21,202010.0,All,All,All,44.7,Crude Rate
+Utah,2020-21,202105.0,All,All,All,17.4,Crude Rate
+Utah,2020-21,202108.0,All,All,All,39.3,Crude Rate
+Utah,2020-21,202106.0,All,All,All,16.2,Crude Rate
+Utah,2020-21,202101.0,All,All,All,58.7,Crude Rate
+Utah,2020-21,202109.0,All,All,All,46.8,Crude Rate
+Utah,2020-21,202102.0,All,All,All,25.7,Crude Rate
+Utah,2020-21,202012.0,All,All,All,63.8,Crude Rate
+Utah,2020-21,202107.0,All,All,All,28.3,Crude Rate
+Utah,2020-21,202103.0,All,All,All,18.3,Crude Rate
+Utah,2020-21,202104.0,All,All,All,15.7,Crude Rate
+Utah,2020-21,202011.0,All,All,All,76.7,Crude Rate
+Tennessee,2020-21,202104.0,All,All,All,34.0,Crude Rate
+Tennessee,2020-21,202108.0,All,All,All,98.9,Crude Rate
+Tennessee,2020-21,202101.0,All,All,All,96.4,Crude Rate
+Tennessee,2020-21,202010.0,All,All,All,47.5,Crude Rate
+Tennessee,2020-21,202102.0,All,All,All,40.2,Crude Rate
+Tennessee,2020-21,202103.0,All,All,All,38.2,Crude Rate
+Tennessee,2020-21,202106.0,All,All,All,6.9,Crude Rate
+Tennessee,2020-21,202105.0,All,All,All,17.1,Crude Rate
+Tennessee,2020-21,202011.0,All,All,All,89.9,Crude Rate
+Tennessee,2020-21,202107.0,All,All,All,25.7,Crude Rate
+Tennessee,2020-21,202109.0,All,All,All,94.2,Crude Rate
+Tennessee,2020-21,202012.0,All,All,All,119.9,Crude Rate
+Oregon,2020-21,202105.0,All,All,All,22.3,Crude Rate
+Oregon,2020-21,202011.0,All,All,All,45.8,Crude Rate
+Oregon,2020-21,202101.0,All,All,All,31.5,Crude Rate
+Oregon,2020-21,202106.0,All,All,All,11.5,Crude Rate
+Oregon,2020-21,202010.0,All,All,All,14.5,Crude Rate
+Oregon,2020-21,202108.0,All,All,All,28.0,Crude Rate
+Oregon,2020-21,202107.0,All,All,All,9.2,Crude Rate
+Oregon,2020-21,202012.0,All,All,All,46.9,Crude Rate
+Oregon,2020-21,202103.0,All,All,All,11.6,Crude Rate
+Oregon,2020-21,202104.0,All,All,All,21.2,Crude Rate
+Oregon,2020-21,202102.0,All,All,All,14.6,Crude Rate
+Oregon,2020-21,202109.0,All,All,All,37.9,Crude Rate
+Ohio,2020-21,202102.0,All,All,All,9.7,Crude Rate
+Ohio,2020-21,202107.0,All,All,All,5.6,Crude Rate
+Ohio,2020-21,202011.0,All,All,All,41.6,Crude Rate
+Ohio,2020-21,202109.0,All,All,All,31.3,Crude Rate
+Ohio,2020-21,202105.0,All,All,All,7.5,Crude Rate
+Ohio,2020-21,202103.0,All,All,All,8.0,Crude Rate
+Ohio,2020-21,202010.0,All,All,All,18.5,Crude Rate
+Ohio,2020-21,202106.0,All,All,All,3.5,Crude Rate
+Ohio,2020-21,202012.0,All,All,All,35.9,Crude Rate
+Ohio,2020-21,202104.0,All,All,All,11.2,Crude Rate
+Ohio,2020-21,202108.0,All,All,All,18.3,Crude Rate
+Ohio,2020-21,202101.0,All,All,All,22.6,Crude Rate
+New York,2020-21,202102.0,All,All,All,48.2,Crude Rate
+New York,2020-21,202103.0,All,All,All,40.3,Crude Rate
+New York,2020-21,202107.0,All,All,All,9.4,Crude Rate
+New York,2020-21,202010.0,All,All,All,14.4,Crude Rate
+New York,2020-21,202104.0,All,All,All,51.8,Crude Rate
+New York,2020-21,202011.0,All,All,All,56.9,Crude Rate
+New York,2020-21,202105.0,All,All,All,35.9,Crude Rate
+New York,2020-21,202106.0,All,All,All,9.4,Crude Rate
+New York,2020-21,202012.0,All,All,All,156.1,Crude Rate
+New York,2020-21,202109.0,All,All,All,49.5,Crude Rate
+New York,2020-21,202108.0,All,All,All,34.7,Crude Rate
+New York,2020-21,202101.0,All,All,All,140.1,Crude Rate
+New Mexico,2020-21,202012.0,All,All,All,127.1,Crude Rate
+New Mexico,2020-21,202010.0,All,All,All,62.3,Crude Rate
+New Mexico,2020-21,202107.0,All,All,All,15.8,Crude Rate
+New Mexico,2020-21,202109.0,All,All,All,46.0,Crude Rate
+New Mexico,2020-21,202102.0,All,All,All,34.2,Crude Rate
+New Mexico,2020-21,202011.0,All,All,All,135.3,Crude Rate
+New Mexico,2020-21,202104.0,All,All,All,25.4,Crude Rate
+New Mexico,2020-21,202103.0,All,All,All,22.0,Crude Rate
+New Mexico,2020-21,202105.0,All,All,All,27.1,Crude Rate
+New Mexico,2020-21,202108.0,All,All,All,50.0,Crude Rate
+New Mexico,2020-21,202106.0,All,All,All,14.2,Crude Rate
+New Mexico,2020-21,202101.0,All,All,All,91.7,Crude Rate
+Minnesota,2020-21,202101.0,All,All,All,36.9,Crude Rate
+Minnesota,2020-21,202108.0,All,All,All,33.7,Crude Rate
+Minnesota,2020-21,202104.0,All,All,All,51.9,Crude Rate
+Minnesota,2020-21,202012.0,All,All,All,75.8,Crude Rate
+Minnesota,2020-21,202105.0,All,All,All,28.4,Crude Rate
+Minnesota,2020-21,202107.0,All,All,All,11.5,Crude Rate
+Minnesota,2020-21,202106.0,All,All,All,9.8,Crude Rate
+Minnesota,2020-21,202011.0,All,All,All,104.7,Crude Rate
+Minnesota,2020-21,202102.0,All,All,All,22.5,Crude Rate
+Minnesota,2020-21,202109.0,All,All,All,43.2,Crude Rate
+Minnesota,2020-21,202103.0,All,All,All,29.7,Crude Rate
+Minnesota,2020-21,202010.0,All,All,All,41.7,Crude Rate
+Michigan,2020-21,202010.0,All,All,All,25.8,Crude Rate
+Michigan,2020-21,202107.0,All,All,All,8.9,Crude Rate
+Michigan,2020-21,202101.0,All,All,All,45.6,Crude Rate
+Michigan,2020-21,202011.0,All,All,All,80.7,Crude Rate
+Michigan,2020-21,202102.0,All,All,All,18.7,Crude Rate
+Michigan,2020-21,202106.0,All,All,All,6.8,Crude Rate
+Michigan,2020-21,202109.0,All,All,All,37.9,Crude Rate
+Michigan,2020-21,202105.0,All,All,All,34.7,Crude Rate
+Michigan,2020-21,202103.0,All,All,All,52.9,Crude Rate
+Michigan,2020-21,202012.0,All,All,All,85.3,Crude Rate
+Michigan,2020-21,202108.0,All,All,All,30.2,Crude Rate
+Michigan,2020-21,202104.0,All,All,All,106.9,Crude Rate
+Maryland,2020-21,202105.0,All,All,All,24.5,Crude Rate
+Maryland,2020-21,202109.0,All,All,All,44.0,Crude Rate
+Maryland,2020-21,202011.0,All,All,All,69.4,Crude Rate
+Maryland,2020-21,202108.0,All,All,All,37.2,Crude Rate
+Maryland,2020-21,202101.0,All,All,All,86.3,Crude Rate
+Maryland,2020-21,202010.0,All,All,All,24.9,Crude Rate
+Maryland,2020-21,202104.0,All,All,All,58.4,Crude Rate
+Maryland,2020-21,202107.0,All,All,All,9.4,Crude Rate
+Maryland,2020-21,202106.0,All,All,All,6.2,Crude Rate
+Maryland,2020-21,202012.0,All,All,All,90.8,Crude Rate
+Maryland,2020-21,202102.0,All,All,All,42.7,Crude Rate
+Maryland,2020-21,202103.0,All,All,All,45.4,Crude Rate
+Iowa,2020-21,202105.0,All,All,All,8.4,Crude Rate
+Iowa,2020-21,202104.0,All,All,All,14.5,Crude Rate
+Iowa,2020-21,202102.0,All,All,All,29.1,Crude Rate
+Iowa,2020-21,202106.0,All,All,All,23.7,Crude Rate
+Iowa,2020-21,202011.0,All,All,All,162.1,Crude Rate
+Iowa,2020-21,202103.0,All,All,All,19.1,Crude Rate
+Iowa,2020-21,202107.0,All,All,All,23.7,Crude Rate
+Iowa,2020-21,202109.0,All,All,All,67.3,Crude Rate
+Iowa,2020-21,202012.0,All,All,All,69.6,Crude Rate
+Iowa,2020-21,202010.0,All,All,All,56.6,Crude Rate
+Iowa,2020-21,202108.0,All,All,All,80.3,Crude Rate
+Iowa,2020-21,202101.0,All,All,All,61.9,Crude Rate
+Georgia,2020-21,202103.0,All,All,All,38.0,Crude Rate
+Georgia,2020-21,202010.0,All,All,All,26.7,Crude Rate
+Georgia,2020-21,202104.0,All,All,All,37.1,Crude Rate
+Georgia,2020-21,202011.0,All,All,All,44.0,Crude Rate
+Georgia,2020-21,202107.0,All,All,All,31.3,Crude Rate
+Georgia,2020-21,202012.0,All,All,All,87.4,Crude Rate
+Georgia,2020-21,202108.0,All,All,All,98.5,Crude Rate
+Georgia,2020-21,202109.0,All,All,All,80.1,Crude Rate
+Georgia,2020-21,202102.0,All,All,All,54.0,Crude Rate
+Georgia,2020-21,202106.0,All,All,All,11.0,Crude Rate
+Georgia,2020-21,202101.0,All,All,All,115.9,Crude Rate
+Georgia,2020-21,202105.0,All,All,All,24.0,Crude Rate
+Connecticut,2020-21,202103.0,All,All,All,73.9,Crude Rate
+Connecticut,2020-21,202107.0,All,All,All,13.1,Crude Rate
+Connecticut,2020-21,202106.0,All,All,All,8.9,Crude Rate
+Connecticut,2020-21,202012.0,All,All,All,142.1,Crude Rate
+Connecticut,2020-21,202010.0,All,All,All,26.1,Crude Rate
+Connecticut,2020-21,202011.0,All,All,All,113.8,Crude Rate
+Connecticut,2020-21,202101.0,All,All,All,110.0,Crude Rate
+Connecticut,2020-21,202104.0,All,All,All,69.9,Crude Rate
+Connecticut,2020-21,202109.0,All,All,All,31.2,Crude Rate
+Connecticut,2020-21,202105.0,All,All,All,24.8,Crude Rate
+Connecticut,2020-21,202108.0,All,All,All,39.2,Crude Rate
+Connecticut,2020-21,202102.0,All,All,All,63.6,Crude Rate
+Colorado,2020-21,202106.0,All,All,All,13.0,Crude Rate
+Colorado,2020-21,202012.0,All,All,All,75.6,Crude Rate
+Colorado,2020-21,202102.0,All,All,All,26.3,Crude Rate
+Colorado,2020-21,202103.0,All,All,All,25.1,Crude Rate
+Colorado,2020-21,202104.0,All,All,All,42.9,Crude Rate
+Colorado,2020-21,202105.0,All,All,All,38.1,Crude Rate
+Colorado,2020-21,202109.0,All,All,All,46.6,Crude Rate
+Colorado,2020-21,202108.0,All,All,All,38.0,Crude Rate
+Colorado,2020-21,202011.0,All,All,All,108.4,Crude Rate
+Colorado,2020-21,202101.0,All,All,All,46.3,Crude Rate
+Colorado,2020-21,202010.0,All,All,All,41.7,Crude Rate
+Colorado,2020-21,202107.0,All,All,All,14.2,Crude Rate
+California,2020-21,202109.0,All,All,All,25.2,Crude Rate
+California,2020-21,202106.0,All,All,All,7.4,Crude Rate
+California,2020-21,202010.0,All,All,All,10.1,Crude Rate
+California,2020-21,202105.0,All,All,All,9.5,Crude Rate
+California,2020-21,202108.0,All,All,All,50.6,Crude Rate
+California,2020-21,202102.0,All,All,All,30.1,Crude Rate
+California,2020-21,202104.0,All,All,All,13.0,Crude Rate
+California,2020-21,202011.0,All,All,All,26.3,Crude Rate
+California,2020-21,202103.0,All,All,All,15.9,Crude Rate
+California,2020-21,202012.0,All,All,All,73.4,Crude Rate
+California,2020-21,202107.0,All,All,All,27.9,Crude Rate
+California,2020-21,202101.0,All,All,All,76.2,Crude Rate
+Utah,2022-23,202307.0,All,All,All,4.1,Crude Rate
+Utah,2022-23,202306.0,All,All,All,4.0,Crude Rate
+Utah,2022-23,202210.0,All,All,All,12.8,Crude Rate
+Utah,2022-23,202301.0,All,All,All,15.3,Crude Rate
+Utah,2022-23,202211.0,All,All,All,23.7,Crude Rate
+Utah,2022-23,202212.0,All,All,All,25.3,Crude Rate
+Utah,2022-23,202303.0,All,All,All,13.1,Crude Rate
+Utah,2022-23,202305.0,All,All,All,6.7,Crude Rate
+Utah,2022-23,202302.0,All,All,All,14.5,Crude Rate
+Utah,2022-23,202308.0,All,All,All,7.3,Crude Rate
+Utah,2022-23,202309.0,All,All,All,10.7,Crude Rate
+Utah,2022-23,202304.0,All,All,All,8.2,Crude Rate
+Tennessee,2022-23,202210.0,All,All,All,15.1,Crude Rate
+Tennessee,2022-23,202302.0,All,All,All,22.5,Crude Rate
+Tennessee,2022-23,202307.0,All,All,All,8.5,Crude Rate
+Tennessee,2022-23,202305.0,All,All,All,7.2,Crude Rate
+Tennessee,2022-23,202212.0,All,All,All,32.0,Crude Rate
+Tennessee,2022-23,202309.0,All,All,All,16.0,Crude Rate
+Tennessee,2022-23,202308.0,All,All,All,19.8,Crude Rate
+Tennessee,2022-23,202211.0,All,All,All,18.7,Crude Rate
+Tennessee,2022-23,202306.0,All,All,All,3.3,Crude Rate
+Tennessee,2022-23,202301.0,All,All,All,28.3,Crude Rate
+Tennessee,2022-23,202304.0,All,All,All,9.5,Crude Rate
+Tennessee,2022-23,202303.0,All,All,All,14.2,Crude Rate
+Oregon,2022-23,202308.0,All,All,All,13.5,Crude Rate
+Oregon,2022-23,202301.0,All,All,All,22.6,Crude Rate
+Oregon,2022-23,202309.0,All,All,All,20.3,Crude Rate
+Oregon,2022-23,202307.0,All,All,All,7.3,Crude Rate
+Oregon,2022-23,202212.0,All,All,All,34.4,Crude Rate
+Oregon,2022-23,202305.0,All,All,All,8.7,Crude Rate
+Oregon,2022-23,202211.0,All,All,All,30.2,Crude Rate
+Oregon,2022-23,202306.0,All,All,All,6.6,Crude Rate
+Oregon,2022-23,202210.0,All,All,All,21.8,Crude Rate
+Oregon,2022-23,202302.0,All,All,All,19.4,Crude Rate
+Oregon,2022-23,202304.0,All,All,All,12.9,Crude Rate
+Oregon,2022-23,202303.0,All,All,All,17.4,Crude Rate
+Ohio,2022-23,202304.0,All,All,All,8.8,Crude Rate
+Ohio,2022-23,202305.0,All,All,All,6.1,Crude Rate
+Ohio,2022-23,202302.0,All,All,All,18.1,Crude Rate
+Ohio,2022-23,202307.0,All,All,All,3.9,Crude Rate
+Ohio,2022-23,202301.0,All,All,All,23.7,Crude Rate
+Ohio,2022-23,202309.0,All,All,All,15.0,Crude Rate
+Ohio,2022-23,202308.0,All,All,All,8.1,Crude Rate
+Ohio,2022-23,202306.0,All,All,All,3.0,Crude Rate
+Ohio,2022-23,202210.0,All,All,All,23.0,Crude Rate
+Ohio,2022-23,202212.0,All,All,All,37.3,Crude Rate
+Ohio,2022-23,202211.0,All,All,All,25.1,Crude Rate
+Ohio,2022-23,202303.0,All,All,All,19.2,Crude Rate
+New York,2022-23,202210.0,All,All,All,63.0,Crude Rate
+New York,2022-23,202303.0,All,All,All,39.2,Crude Rate
+New York,2022-23,202307.0,All,All,All,8.4,Crude Rate
+New York,2022-23,202301.0,All,All,All,53.5,Crude Rate
+New York,2022-23,202211.0,All,All,All,45.3,Crude Rate
+New York,2022-23,202308.0,All,All,All,16.6,Crude Rate
+New York,2022-23,202305.0,All,All,All,15.3,Crude Rate
+New York,2022-23,202304.0,All,All,All,23.6,Crude Rate
+New York,2022-23,202302.0,All,All,All,47.0,Crude Rate
+New York,2022-23,202309.0,All,All,All,28.5,Crude Rate
+New York,2022-23,202212.0,All,All,All,54.6,Crude Rate
+New York,2022-23,202306.0,All,All,All,8.2,Crude Rate
+New Mexico,2022-23,202309.0,All,All,All,18.9,Crude Rate
+New Mexico,2022-23,202212.0,All,All,All,48.2,Crude Rate
+New Mexico,2022-23,202301.0,All,All,All,27.3,Crude Rate
+New Mexico,2022-23,202308.0,All,All,All,12.9,Crude Rate
+New Mexico,2022-23,202307.0,All,All,All,6.4,Crude Rate
+New Mexico,2022-23,202304.0,All,All,All,26.9,Crude Rate
+New Mexico,2022-23,202211.0,All,All,All,60.3,Crude Rate
+New Mexico,2022-23,202210.0,All,All,All,33.0,Crude Rate
+New Mexico,2022-23,202302.0,All,All,All,23.5,Crude Rate
+New Mexico,2022-23,202303.0,All,All,All,29.3,Crude Rate
+New Mexico,2022-23,202305.0,All,All,All,17.1,Crude Rate
+New Mexico,2022-23,202306.0,All,All,All,7.7,Crude Rate
+Minnesota,2022-23,202304.0,All,All,All,13.6,Crude Rate
+Minnesota,2022-23,202309.0,All,All,All,17.6,Crude Rate
+Minnesota,2022-23,202211.0,All,All,All,46.4,Crude Rate
+Minnesota,2022-23,202305.0,All,All,All,7.4,Crude Rate
+Minnesota,2022-23,202210.0,All,All,All,38.0,Crude Rate
+Minnesota,2022-23,202302.0,All,All,All,26.6,Crude Rate
+Minnesota,2022-23,202308.0,All,All,All,10.2,Crude Rate
+Minnesota,2022-23,202301.0,All,All,All,34.3,Crude Rate
+Minnesota,2022-23,202307.0,All,All,All,4.5,Crude Rate
+Minnesota,2022-23,202303.0,All,All,All,21.4,Crude Rate
+Minnesota,2022-23,202212.0,All,All,All,50.8,Crude Rate
+Minnesota,2022-23,202306.0,All,All,All,3.6,Crude Rate
+Michigan,2022-23,202309.0,All,All,All,20.1,Crude Rate
+Michigan,2022-23,202302.0,All,All,All,20.4,Crude Rate
+Michigan,2022-23,202304.0,All,All,All,21.4,Crude Rate
+Michigan,2022-23,202306.0,All,All,All,5.7,Crude Rate
+Michigan,2022-23,202303.0,All,All,All,28.4,Crude Rate
+Michigan,2022-23,202212.0,All,All,All,41.3,Crude Rate
+Michigan,2022-23,202301.0,All,All,All,26.2,Crude Rate
+Michigan,2022-23,202211.0,All,All,All,31.7,Crude Rate
+Michigan,2022-23,202308.0,All,All,All,11.5,Crude Rate
+Michigan,2022-23,202305.0,All,All,All,12.4,Crude Rate
+Michigan,2022-23,202210.0,All,All,All,37.2,Crude Rate
+Michigan,2022-23,202307.0,All,All,All,5.0,Crude Rate
+Maryland,2022-23,202305.0,All,All,All,4.7,Crude Rate
+Maryland,2022-23,202306.0,All,All,All,4.1,Crude Rate
+Maryland,2022-23,202309.0,All,All,All,17.0,Crude Rate
+Maryland,2022-23,202303.0,All,All,All,12.2,Crude Rate
+Maryland,2022-23,202302.0,All,All,All,21.7,Crude Rate
+Maryland,2022-23,202210.0,All,All,All,24.3,Crude Rate
+Maryland,2022-23,202211.0,All,All,All,25.5,Crude Rate
+Maryland,2022-23,202308.0,All,All,All,10.3,Crude Rate
+Maryland,2022-23,202304.0,All,All,All,5.2,Crude Rate
+Maryland,2022-23,202212.0,All,All,All,41.2,Crude Rate
+Maryland,2022-23,202301.0,All,All,All,38.3,Crude Rate
+Maryland,2022-23,202307.0,All,All,All,6.2,Crude Rate
+Georgia,2022-23,202309.0,All,All,All,15.3,Crude Rate
+Georgia,2022-23,202211.0,All,All,All,21.5,Crude Rate
+Georgia,2022-23,202305.0,All,All,All,8.3,Crude Rate
+Georgia,2022-23,202303.0,All,All,All,14.9,Crude Rate
+Georgia,2022-23,202210.0,All,All,All,17.8,Crude Rate
+Georgia,2022-23,202307.0,All,All,All,8.4,Crude Rate
+Georgia,2022-23,202308.0,All,All,All,21.0,Crude Rate
+Georgia,2022-23,202304.0,All,All,All,9.2,Crude Rate
+Georgia,2022-23,202306.0,All,All,All,5.7,Crude Rate
+Georgia,2022-23,202302.0,All,All,All,23.6,Crude Rate
+Georgia,2022-23,202212.0,All,All,All,45.5,Crude Rate
+Georgia,2022-23,202301.0,All,All,All,42.9,Crude Rate
+Connecticut,2022-23,202305.0,All,All,All,8.9,Crude Rate
+Connecticut,2022-23,202306.0,All,All,All,8.3,Crude Rate
+Connecticut,2022-23,202301.0,All,All,All,93.4,Crude Rate
+Connecticut,2022-23,202304.0,All,All,All,16.1,Crude Rate
+Connecticut,2022-23,202212.0,All,All,All,95.6,Crude Rate
+Connecticut,2022-23,202303.0,All,All,All,26.2,Crude Rate
+Connecticut,2022-23,202211.0,All,All,All,58.9,Crude Rate
+Connecticut,2022-23,202309.0,All,All,All,30.9,Crude Rate
+Connecticut,2022-23,202302.0,All,All,All,44.2,Crude Rate
+Connecticut,2022-23,202308.0,All,All,All,24.8,Crude Rate
+Connecticut,2022-23,202307.0,All,All,All,9.6,Crude Rate
+Connecticut,2022-23,202210.0,All,All,All,64.0,Crude Rate
+Colorado,2022-23,202308.0,All,All,All,10.2,Crude Rate
+Colorado,2022-23,202304.0,All,All,All,10.4,Crude Rate
+Colorado,2022-23,202211.0,All,All,All,36.3,Crude Rate
+Colorado,2022-23,202301.0,All,All,All,16.9,Crude Rate
+Colorado,2022-23,202306.0,All,All,All,4.7,Crude Rate
+Colorado,2022-23,202210.0,All,All,All,15.5,Crude Rate
+Colorado,2022-23,202305.0,All,All,All,6.6,Crude Rate
+Colorado,2022-23,202307.0,All,All,All,4.2,Crude Rate
+Colorado,2022-23,202309.0,All,All,All,16.6,Crude Rate
+Colorado,2022-23,202212.0,All,All,All,28.9,Crude Rate
+Colorado,2022-23,202302.0,All,All,All,17.6,Crude Rate
+Colorado,2022-23,202303.0,All,All,All,16.4,Crude Rate
+California,2022-23,202211.0,All,All,All,30.8,Crude Rate
+California,2022-23,202304.0,All,All,All,19.7,Crude Rate
+California,2022-23,202210.0,All,All,All,19.1,Crude Rate
+California,2022-23,202212.0,All,All,All,47.4,Crude Rate
+California,2022-23,202305.0,All,All,All,15.9,Crude Rate
+California,2022-23,202309.0,All,All,All,24.8,Crude Rate
+California,2022-23,202307.0,All,All,All,18.1,Crude Rate
+California,2022-23,202303.0,All,All,All,25.3,Crude Rate
+California,2022-23,202308.0,All,All,All,25.4,Crude Rate
+California,2022-23,202301.0,All,All,All,30.8,Crude Rate
+California,2022-23,202306.0,All,All,All,14.0,Crude Rate
+California,2022-23,202302.0,All,All,All,26.2,Crude Rate
+Utah,2023-24,202402.0,All,All,All,7.5,Crude Rate
+Utah,2023-24,202312.0,All,All,All,18.9,Crude Rate
+Utah,2023-24,202310.0,All,All,All,10.7,Crude Rate
+Utah,2023-24,202311.0,All,All,All,17.0,Crude Rate
+Utah,2023-24,202401.0,All,All,All,13.5,Crude Rate
+Utah,2023-24,202403.0,All,All,All,7.2,Crude Rate
+Utah,2023-24,202404.0,All,All,All,4.7,Crude Rate
+Utah,2023-24,202407.0,All,All,All,4.0,Crude Rate
+Utah,2023-24,202405.0,All,All,All,3.1,Crude Rate
+Utah,2023-24,202406.0,All,All,All,5.3,Crude Rate
+Tennessee,2023-24,202312.0,All,All,All,22.7,Crude Rate
+Tennessee,2023-24,202406.0,All,All,All,5.1,Crude Rate
+Tennessee,2023-24,202401.0,All,All,All,23.8,Crude Rate
+Tennessee,2023-24,202311.0,All,All,All,15.7,Crude Rate
+Tennessee,2023-24,202404.0,All,All,All,4.8,Crude Rate
+Tennessee,2023-24,202405.0,All,All,All,1.6,Crude Rate
+Tennessee,2023-24,202310.0,All,All,All,11.5,Crude Rate
+Tennessee,2023-24,202403.0,All,All,All,14.3,Crude Rate
+Tennessee,2023-24,202402.0,All,All,All,20.3,Crude Rate
+Tennessee,2023-24,202407.0,All,All,All,3.4,Crude Rate
+Oregon,2023-24,202402.0,All,All,All,14.6,Crude Rate
+Oregon,2023-24,202401.0,All,All,All,21.9,Crude Rate
+Oregon,2023-24,202406.0,All,All,All,13.3,Crude Rate
+Oregon,2023-24,202310.0,All,All,All,20.2,Crude Rate
+Oregon,2023-24,202311.0,All,All,All,15.2,Crude Rate
+Oregon,2023-24,202405.0,All,All,All,5.3,Crude Rate
+Oregon,2023-24,202404.0,All,All,All,4.3,Crude Rate
+Oregon,2023-24,202407.0,All,All,All,6.2,Crude Rate
+Oregon,2023-24,202312.0,All,All,All,19.9,Crude Rate
+Oregon,2023-24,202403.0,All,All,All,8.1,Crude Rate
+Ohio,2023-24,202406.0,All,All,All,4.7,Crude Rate
+Ohio,2023-24,202312.0,All,All,All,26.5,Crude Rate
+Ohio,2023-24,202403.0,All,All,All,4.8,Crude Rate
+Ohio,2023-24,202310.0,All,All,All,12.9,Crude Rate
+Ohio,2023-24,202311.0,All,All,All,16.3,Crude Rate
+Ohio,2023-24,202401.0,All,All,All,19.6,Crude Rate
+Ohio,2023-24,202407.0,All,All,All,2.2,Crude Rate
+Ohio,2023-24,202405.0,All,All,All,2.0,Crude Rate
+Ohio,2023-24,202402.0,All,All,All,11.6,Crude Rate
+Ohio,2023-24,202404.0,All,All,All,3.7,Crude Rate
+New York,2023-24,202402.0,All,All,All,24.4,Crude Rate
+New York,2023-24,202404.0,All,All,All,12.0,Crude Rate
+New York,2023-24,202310.0,All,All,All,31.1,Crude Rate
+New York,2023-24,202401.0,All,All,All,43.2,Crude Rate
+New York,2023-24,202407.0,All,All,All,6.7,Crude Rate
+New York,2023-24,202312.0,All,All,All,48.4,Crude Rate
+New York,2023-24,202406.0,All,All,All,10.1,Crude Rate
+New York,2023-24,202405.0,All,All,All,10.0,Crude Rate
+New York,2023-24,202311.0,All,All,All,30.6,Crude Rate
+New York,2023-24,202403.0,All,All,All,12.4,Crude Rate
+New Mexico,2023-24,202401.0,All,All,All,20.2,Crude Rate
+New Mexico,2023-24,202407.0,All,All,All,2.0,Crude Rate
+New Mexico,2023-24,202312.0,All,All,All,33.7,Crude Rate
+New Mexico,2023-24,202402.0,All,All,All,17.8,Crude Rate
+New Mexico,2023-24,202405.0,All,All,All,8.3,Crude Rate
+New Mexico,2023-24,202406.0,All,All,All,10.8,Crude Rate
+New Mexico,2023-24,202404.0,All,All,All,8.3,Crude Rate
+New Mexico,2023-24,202311.0,All,All,All,46.6,Crude Rate
+New Mexico,2023-24,202403.0,All,All,All,16.4,Crude Rate
+New Mexico,2023-24,202310.0,All,All,All,32.7,Crude Rate
+Minnesota,2023-24,202402.0,All,All,All,16.6,Crude Rate
+Minnesota,2023-24,202407.0,All,All,All,4.8,Crude Rate
+Minnesota,2023-24,202403.0,All,All,All,9.5,Crude Rate
+Minnesota,2023-24,202310.0,All,All,All,21.1,Crude Rate
+Minnesota,2023-24,202401.0,All,All,All,31.0,Crude Rate
+Minnesota,2023-24,202406.0,All,All,All,7.9,Crude Rate
+Minnesota,2023-24,202311.0,All,All,All,26.6,Crude Rate
+Minnesota,2023-24,202312.0,All,All,All,38.2,Crude Rate
+Minnesota,2023-24,202405.0,All,All,All,5.8,Crude Rate
+Minnesota,2023-24,202404.0,All,All,All,5.4,Crude Rate
+Michigan,2023-24,202403.0,All,All,All,14.0,Crude Rate
+Michigan,2023-24,202312.0,All,All,All,39.5,Crude Rate
+Michigan,2023-24,202404.0,All,All,All,7.2,Crude Rate
+Michigan,2023-24,202405.0,All,All,All,3.9,Crude Rate
+Michigan,2023-24,202401.0,All,All,All,30.9,Crude Rate
+Michigan,2023-24,202406.0,All,All,All,5.5,Crude Rate
+Michigan,2023-24,202310.0,All,All,All,19.2,Crude Rate
+Michigan,2023-24,202402.0,All,All,All,21.5,Crude Rate
+Michigan,2023-24,202311.0,All,All,All,22.2,Crude Rate
+Michigan,2023-24,202407.0,All,All,All,2.6,Crude Rate
+Maryland,2023-24,202407.0,All,All,All,3.1,Crude Rate
+Maryland,2023-24,202403.0,All,All,All,7.7,Crude Rate
+Maryland,2023-24,202402.0,All,All,All,14.7,Crude Rate
+Maryland,2023-24,202310.0,All,All,All,14.4,Crude Rate
+Maryland,2023-24,202312.0,All,All,All,18.7,Crude Rate
+Maryland,2023-24,202311.0,All,All,All,16.3,Crude Rate
+Maryland,2023-24,202404.0,All,All,All,4.1,Crude Rate
+Maryland,2023-24,202405.0,All,All,All,3.6,Crude Rate
+Maryland,2023-24,202406.0,All,All,All,5.7,Crude Rate
+Maryland,2023-24,202401.0,All,All,All,24.2,Crude Rate
+Georgia,2023-24,202405.0,All,All,All,3.5,Crude Rate
+Georgia,2023-24,202406.0,All,All,All,6.4,Crude Rate
+Georgia,2023-24,202404.0,All,All,All,4.9,Crude Rate
+Georgia,2023-24,202407.0,All,All,All,2.6,Crude Rate
+Georgia,2023-24,202403.0,All,All,All,12.4,Crude Rate
+Georgia,2023-24,202310.0,All,All,All,11.4,Crude Rate
+Georgia,2023-24,202402.0,All,All,All,24.5,Crude Rate
+Georgia,2023-24,202312.0,All,All,All,25.5,Crude Rate
+Georgia,2023-24,202401.0,All,All,All,32.2,Crude Rate
+Georgia,2023-24,202311.0,All,All,All,12.7,Crude Rate
+Connecticut,2023-24,202312.0,All,All,All,55.4,Crude Rate
+Connecticut,2023-24,202406.0,All,All,All,9.1,Crude Rate
+Connecticut,2023-24,202404.0,All,All,All,8.0,Crude Rate
+Connecticut,2023-24,202407.0,All,All,All,5.8,Crude Rate
+Connecticut,2023-24,202402.0,All,All,All,26.3,Crude Rate
+Connecticut,2023-24,202310.0,All,All,All,32.3,Crude Rate
+Connecticut,2023-24,202311.0,All,All,All,34.7,Crude Rate
+Connecticut,2023-24,202403.0,All,All,All,14.4,Crude Rate
+Connecticut,2023-24,202401.0,All,All,All,52.7,Crude Rate
+Connecticut,2023-24,202405.0,All,All,All,8.6,Crude Rate
+Colorado,2023-24,202406.0,All,All,All,6.3,Crude Rate
+Colorado,2023-24,202310.0,All,All,All,26.1,Crude Rate
+Colorado,2023-24,202405.0,All,All,All,4.8,Crude Rate
+Colorado,2023-24,202401.0,All,All,All,19.2,Crude Rate
+Colorado,2023-24,202312.0,All,All,All,22.9,Crude Rate
+Colorado,2023-24,202407.0,All,All,All,3.5,Crude Rate
+Colorado,2023-24,202311.0,All,All,All,25.3,Crude Rate
+Colorado,2023-24,202403.0,All,All,All,6.3,Crude Rate
+Colorado,2023-24,202402.0,All,All,All,9.7,Crude Rate
+Colorado,2023-24,202404.0,All,All,All,3.6,Crude Rate
+California,2023-24,202407.0,All,All,All,11.2,Crude Rate
+California,2023-24,202402.0,All,All,All,16.9,Crude Rate
+California,2023-24,202404.0,All,All,All,9.2,Crude Rate
+California,2023-24,202406.0,All,All,All,19.4,Crude Rate
+California,2023-24,202312.0,All,All,All,32.9,Crude Rate
+California,2023-24,202405.0,All,All,All,12.2,Crude Rate
+California,2023-24,202401.0,All,All,All,32.2,Crude Rate
+California,2023-24,202311.0,All,All,All,22.2,Crude Rate
+California,2023-24,202403.0,All,All,All,11.2,Crude Rate
+California,2023-24,202310.0,All,All,All,18.1,Crude Rate
+Utah,2019-20,202003.0,All,All,All,4.5,Crude Rate
+Utah,2019-20,202009.0,All,All,All,28.6,Crude Rate
+Utah,2019-20,202006.0,All,All,All,26.7,Crude Rate
+Utah,2019-20,202005.0,All,All,All,18.5,Crude Rate
+Utah,2019-20,202004.0,All,All,All,15.8,Crude Rate
+Utah,2019-20,202008.0,All,All,All,21.5,Crude Rate
+Utah,2019-20,202007.0,All,All,All,33.5,Crude Rate
+Tennessee,2019-20,202006.0,All,All,All,28.2,Crude Rate
+Tennessee,2019-20,202009.0,All,All,All,28.3,Crude Rate
+Tennessee,2019-20,202005.0,All,All,All,20.5,Crude Rate
+Tennessee,2019-20,202007.0,All,All,All,54.3,Crude Rate
+Tennessee,2019-20,202003.0,All,All,All,16.8,Crude Rate
+Tennessee,2019-20,202008.0,All,All,All,35.6,Crude Rate
+Tennessee,2019-20,202004.0,All,All,All,21.7,Crude Rate
+Oregon,2019-20,202008.0,All,All,All,14.8,Crude Rate
+Oregon,2019-20,202007.0,All,All,All,15.0,Crude Rate
+Oregon,2019-20,202006.0,All,All,All,8.7,Crude Rate
+Oregon,2019-20,202003.0,All,All,All,7.8,Crude Rate
+Oregon,2019-20,202009.0,All,All,All,13.3,Crude Rate
+Oregon,2019-20,202004.0,All,All,All,12.1,Crude Rate
+Oregon,2019-20,202005.0,All,All,All,5.1,Crude Rate
+Ohio,2019-20,202007.0,All,All,All,24.9,Crude Rate
+Ohio,2019-20,202004.0,All,All,All,20.8,Crude Rate
+Ohio,2019-20,202006.0,All,All,All,14.7,Crude Rate
+Ohio,2019-20,202008.0,All,All,All,14.6,Crude Rate
+Ohio,2019-20,202009.0,All,All,All,13.8,Crude Rate
+Ohio,2019-20,202005.0,All,All,All,21.9,Crude Rate
+Ohio,2019-20,202003.0,All,All,All,6.4,Crude Rate
+New York,2019-20,202008.0,All,All,All,6.6,Crude Rate
+New York,2019-20,202004.0,All,All,All,28.2,Crude Rate
+New York,2019-20,202007.0,All,All,All,7.6,Crude Rate
+New York,2019-20,202005.0,All,All,All,24.5,Crude Rate
+New York,2019-20,202003.0,All,All,All,13.5,Crude Rate
+New York,2019-20,202009.0,All,All,All,6.3,Crude Rate
+New York,2019-20,202006.0,All,All,All,8.4,Crude Rate
+New Mexico,2019-20,202006.0,All,All,All,15.0,Crude Rate
+New Mexico,2019-20,202007.0,All,All,All,30.8,Crude Rate
+New Mexico,2019-20,202005.0,All,All,All,24.8,Crude Rate
+New Mexico,2019-20,202008.0,All,All,All,15.6,Crude Rate
+New Mexico,2019-20,202009.0,All,All,All,17.8,Crude Rate
+New Mexico,2019-20,202004.0,All,All,All,16.9,Crude Rate
+New Mexico,2019-20,202003.0,All,All,All,2.9,Crude Rate
+Minnesota,2019-20,202007.0,All,All,All,25.7,Crude Rate
+Minnesota,2019-20,202008.0,All,All,All,29.5,Crude Rate
+Minnesota,2019-20,202006.0,All,All,All,21.4,Crude Rate
+Minnesota,2019-20,202003.0,All,All,All,4.1,Crude Rate
+Minnesota,2019-20,202009.0,All,All,All,26.1,Crude Rate
+Minnesota,2019-20,202004.0,All,All,All,25.9,Crude Rate
+Minnesota,2019-20,202005.0,All,All,All,48.4,Crude Rate
+Michigan,2019-20,202004.0,All,All,All,50.6,Crude Rate
+Michigan,2019-20,202007.0,All,All,All,8.6,Crude Rate
+Michigan,2019-20,202008.0,All,All,All,5.7,Crude Rate
+Michigan,2019-20,202009.0,All,All,All,9.4,Crude Rate
+Michigan,2019-20,202005.0,All,All,All,11.3,Crude Rate
+Michigan,2019-20,202006.0,All,All,All,2.6,Crude Rate
+Michigan,2019-20,202003.0,All,All,All,29.1,Crude Rate
+Maryland,2019-20,202008.0,All,All,All,24.2,Crude Rate
+Maryland,2019-20,202005.0,All,All,All,66.3,Crude Rate
+Maryland,2019-20,202006.0,All,All,All,25.9,Crude Rate
+Maryland,2019-20,202007.0,All,All,All,29.0,Crude Rate
+Maryland,2019-20,202004.0,All,All,All,73.6,Crude Rate
+Maryland,2019-20,202009.0,All,All,All,20.8,Crude Rate
+Maryland,2019-20,202003.0,All,All,All,15.1,Crude Rate
+Iowa,2019-20,202005.0,All,All,All,44.3,Crude Rate
+Iowa,2019-20,202007.0,All,All,All,31.3,Crude Rate
+Iowa,2019-20,202003.0,All,All,All,0.8,Crude Rate
+Iowa,2019-20,202004.0,All,All,All,73.4,Crude Rate
+Iowa,2019-20,202009.0,All,All,All,42.1,Crude Rate
+Iowa,2019-20,202008.0,All,All,All,40.5,Crude Rate
+Iowa,2019-20,202006.0,All,All,All,19.9,Crude Rate
+Georgia,2019-20,202006.0,All,All,All,32.8,Crude Rate
+Georgia,2019-20,202009.0,All,All,All,26.1,Crude Rate
+Georgia,2019-20,202008.0,All,All,All,44.4,Crude Rate
+Georgia,2019-20,202003.0,All,All,All,28.8,Crude Rate
+Georgia,2019-20,202004.0,All,All,All,31.8,Crude Rate
+Georgia,2019-20,202005.0,All,All,All,21.3,Crude Rate
+Georgia,2019-20,202007.0,All,All,All,84.4,Crude Rate
+Connecticut,2019-20,202006.0,All,All,All,13.7,Crude Rate
+Connecticut,2019-20,202004.0,All,All,All,156.2,Crude Rate
+Connecticut,2019-20,202009.0,All,All,All,10.6,Crude Rate
+Connecticut,2019-20,202003.0,All,All,All,38.7,Crude Rate
+Connecticut,2019-20,202008.0,All,All,All,10.0,Crude Rate
+Connecticut,2019-20,202007.0,All,All,All,10.2,Crude Rate
+Connecticut,2019-20,202005.0,All,All,All,72.7,Crude Rate
+Colorado,2019-20,202004.0,All,All,All,63.0,Crude Rate
+Colorado,2019-20,202009.0,All,All,All,15.9,Crude Rate
+Colorado,2019-20,202007.0,All,All,All,18.3,Crude Rate
+Colorado,2019-20,202008.0,All,All,All,11.6,Crude Rate
+Colorado,2019-20,202005.0,All,All,All,31.5,Crude Rate
+Colorado,2019-20,202003.0,All,All,All,30.2,Crude Rate
+Colorado,2019-20,202006.0,All,All,All,10.8,Crude Rate
+California,2019-20,202007.0,All,All,All,31.8,Crude Rate
+California,2019-20,202006.0,All,All,All,13.9,Crude Rate
+California,2019-20,202004.0,All,All,All,13.4,Crude Rate
+California,2019-20,202005.0,All,All,All,10.3,Crude Rate
+California,2019-20,202009.0,All,All,All,17.8,Crude Rate
+California,2019-20,202003.0,All,All,All,8.6,Crude Rate
+California,2019-20,202008.0,All,All,All,29.0,Crude Rate
