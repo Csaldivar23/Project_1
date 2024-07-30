@@ -1,4 +1,4 @@
-The Covid Economic Impact.
+# The Covid Economic Impact.
 
 In 2020, the Covid-19 pandemic swept across the U.S. leading to numerous adverse effects. In this Project we focus on the impact of Covid and its affect on the U.S economy.
 We will look at and compare the percentage of hospitalizations, unemployment rate, and inflation over the course of 3 years. In order to collect and compare data we have
