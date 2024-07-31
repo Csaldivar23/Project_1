@@ -27,3 +27,8 @@ Harriet's contributions and prework:
 - 3_col_Monthly_COVID_Hospitaliztions.csv
 - "Resources" folder
 - "output" folder
+
+
+# Data Analysis & Conclusion
+
+There is a relationship between COVID hospitalizations and the economy. As you can see before the COVID pandemic began in 2020 the unemployment rate stayed consistent around 6%. When COVID began spreading the unemployment spiked greatly above 20% and took multiple years to come back down. Inflation rates shot up in 2021 doubling the highest inflation rate in previous years before COVID.
